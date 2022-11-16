@@ -1,4 +1,4 @@
-### Hi Neptu 👋
+### Hi Neptu 🌱
 
 <!--
 **Uzemiu/Uzemiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About 😊
-
 <div align="center">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 <br>
 
-## Metrics 👣
+## Metrics 🍀
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
@@ -36,4 +34,4 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Uzemiu&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Uzemiu&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
