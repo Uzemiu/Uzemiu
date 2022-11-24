@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <p>ヌルポ</p>
+  <p>ガ</p>
 </div>
 <br>
 
